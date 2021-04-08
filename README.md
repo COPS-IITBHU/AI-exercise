@@ -53,9 +53,10 @@ Initialize the network with random parameters. Then, use the above table as the 
 
 
 
-> **Goal:** To have a clear understanding of the matrix operations involved in backpropagation. <br />
-> **Prerequisites:** Neural Networks, back propagation, matrix calculus, numpy <br />
-> **Instructions for submission:** All submissions to be made as ready-to-run jupyter notebooks, which are directly executable in google colab. <br />
+| |
+|:---|
+| **Goal:** To have a clear understanding of the matrix operations involved in backpropagation. <br > **Prerequisites:** Neural Networks, back propagation, matrix calculus, numpy <br> **Instructions for submission:** All submissions to be made as ready-to-run jupyter notebooks, which are directly executable in google colab. |
+
 
 <br>
 
@@ -68,9 +69,9 @@ Finally, prepare a small 1-3 page report of your findings, with diagrams
 **Note:** If done properly, this work could form an excellent project or the building blocks of a publication.
 
 
-> **Goal:** To have a clear understanding of the types of optimizers used in neural networks, and their strengths and weaknesses. <br />
-> **Prerequisites:** Gradient descent, Backpropagation, types of optimizers. <br />
-> **Instructions:** All code needs to be either submitted as a zip file, containing clearly named .py files, or as a single jupyter notebook directly executable on google colab <br />
+| |
+|:---|
+| **Goal:** To have a clear understanding of the types of optimizers used in neural networks, and their strengths and weaknesses. <br> **Prerequisites:** Gradient descent, Backpropagation, types of optimizers. <br> **Instructions:** All code needs to be either submitted as a zip file, containing clearly named .py files, or as a single jupyter notebook directly executable on google colab |
 
 <br>
 
