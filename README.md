@@ -25,9 +25,7 @@ All the resources required for completing the exercise are given in the [AI-road
 
 # 3. Exercise
 
-The Exercises are structured such that you can either solve **any two** out of the first seven questions **OR** do the 
-
-[last question](#3.8-Paper-Implementation) individually. Keep in mind that solving the last question means replicating state-of-the-art results of a paper.
+The Exercises are structured such that you can either solve **any two** out of the first seven questions **OR** do the [last question](#38-paper-implementation) individually. Keep in mind that solving the last question means replicating state-of-the-art results of a paper.
 
 <br>
 
@@ -149,7 +147,7 @@ Remember this task has not been designed for beginners but anyone is welcome to 
 
 <br>
 
-# 3. Timeline
+# 4. Timeline
 
 It is preferred if you start working on the tasks along with auditing the AI-roadmap. Here’s a rough timeline we’d like you to follow:
 
@@ -175,13 +173,13 @@ Try to wrap up the 2nd task, or the paper implementation. Get your reports ready
 
 <br>
 
-# 4. Submission
+# 5. Submission
 
 All tasks require submissions in the form of code or reports. We will provide clear instructions on how to submit towards the end of the month. However, we encourage you to **keep us informed of your progress**, especially when you have completed a task.
 
 <br>
 
-# 5. Contact Info
+# 6. Contact Info
 
 If you have any questions/suggestions or need guidance on anything, make sure to raise a question in the group. We have also provided our whatsapp numbers for specific doubts regarding the exercise. For technical doubts, just make sure that you have googled your questions before contacting us personally.
 
